@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MohamedMagdy097
+- 👀 I’m interested in ios development
+- 🌱 I’m currently learning php , node.js , problem solving and data structures
+- 💞️ I’m looking to collaborate on any project .. im in
+- 📫 How to reach me https://www.linkedin.com/in/mohamedmagdy097/
